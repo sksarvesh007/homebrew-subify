@@ -1,16 +1,3 @@
-# 🍺 Homebrew Tap for Subify
+# Subify Homebrew Tap Retired
 
-Official Homebrew Cask tap for **Subify** — live synced Spotify lyrics subtitles for macOS.
-
-## Installation
-
-```bash
-brew install sksarvesh007/subify/subify
-```
-
-Or:
-
-```bash
-brew tap sksarvesh007/subify
-brew install --cask subify
-```
+Subify is now a commercial macOS application. This Homebrew tap has been retired.
